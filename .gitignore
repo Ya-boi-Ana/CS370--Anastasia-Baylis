@@ -146,3 +146,10 @@ datasets/*
 install/
 log/
 .colcon/.env
+assignments/assignment-3/detections/
+assignments/assignment-3/tracks/
+assignments/assignment-3/runs/
+assignments/assignment-3/*.parquet
+assignments/assignment-3/**/*.jpg
+assignments/assignment-3/**/*.mp4
+assignments/assignment-3/**/*.pt
